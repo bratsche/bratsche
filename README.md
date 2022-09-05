@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Sr. Software Engineer at GitHub, working on Codespaces.
+I'm a Sr. Software Engineer at Papa, working on Elixir backend stuff.
 
 <!--
 **bratsche/bratsche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
